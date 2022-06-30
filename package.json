@@ -5,8 +5,8 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node conditionals.js",
-    "dev": "nodemon conditionals.js"
+    "start": "Loopy-Lighthouse.js",
+    "dev": "Loopy-Lighthouse.js"
   },
   "author": "",
   "license": "ISC",
